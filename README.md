@@ -13,4 +13,4 @@ GOAL: Dwelling only on face can lead to an evaluation mistake. An emotion derive
 
 ![alt text](https://github.com/andreamagnante/contestFaceEmotionRecognition/blob/master/examplePhotos/Screenshot%20from%202020-03-19%2016-02-56.png)
 
-![alt text](https://github.com/andreamagnante/contestFaceEmotionRecognition/blob/master/examplePhotos/Screenshot%20from%202020-03-19%2016-03-41.png)
+![alt text](https://github.com/andreamagnante/contestFaceEmotionRecognition/blob/master/examplePhotos/Screenshot%20from%202020-03-19%2016-02-46.png)
